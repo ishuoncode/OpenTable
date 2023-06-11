@@ -18,7 +18,7 @@ export default function SearchBar() {
           placeholder="State, city or town"
           value={location}
           onChange={(e) => {
-            setlocation(e.target.value);
+            setlocation(e.target.value) ; 
           }}
         />
         <button
