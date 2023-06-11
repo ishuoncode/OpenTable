@@ -27,7 +27,7 @@ const useAuth = () => {
     });
     try {
       const response = await axios.post(
-        'http://localhost:3000/api/auth/signin',
+        'https://open-table-cj410i123-ishuoncode.vercel.app/api/auth/signin',
         { Email: email, password }
       );
       // console.log('🚀 ~ file: useAuth.ts:7 ~ response ~ response:', response);
@@ -74,7 +74,7 @@ const useAuth = () => {
 
     try {
       const response = await axios.post(
-        'http://localhost:3000/api/auth/signup',
+        'https://open-table-cj410i123-ishuoncode.vercel.app/api/auth/signup',
         {
           Email: email,
           password:password,
