@@ -48,7 +48,7 @@ export default function AuthContextApi({
         });
       }
       const response = await axios.get(
-        'https://open-table-cj410i123-ishuoncode.vercel.app/api/auth/me',{
+        '/api/auth/me',{
           headers: {Authorization: "Bearer " + jwt},
         })
         setAuthState({

@@ -14,7 +14,7 @@ export default function useAvailabilities(){
         
         
         try {
-            const response = await axios.get(`https://open-table-cj410i123-ishuoncode.vercel.app/api/restaurant/${slug}/availability`, {
+            const response = await axios.get(`/api/restaurant/${slug}/availability`, {
                 params: {
                     day,
                     time,
