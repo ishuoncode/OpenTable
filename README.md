@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://github.com/ishuoncode/Voyage/blob/master/public/img/logo-green-round.png" alt="Opentable" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/ishuoncode/OpenTable/master/app/159063-OV19RU-942.jpg" alt="Opentable" width="200"></a>
   <br>
   OpenTable
   <br>
@@ -9,7 +9,7 @@
 <h4 align="center">An awesome restaurant table booking site built on top of <a href="https://nextjs.org/" target="_blank">NextJS</a>.</h4>
 
 ## Deployed Version
-Live demo (Feel free to visit) 👉 : https://voyage-nnyl.onrender.com/
+Live demo (Feel free to visit) 👉 : https://open-table-git-master-ishuoncode.vercel.app
 
 ## How To Use
 
@@ -30,7 +30,7 @@ Live demo (Feel free to visit) 👉 : https://voyage-nnyl.onrender.com/
 * [JSON Web Token](https://jwt.io/) - Security token
 * [Webpack](https://webpack.js.org/) - Blazing fast, web application bundler
 * [Postman](https://www.getpostman.com/) - API testing
-* [Render](https://render.com/) - Cloud platform
+* [Vercel](https://vercel.com/) - Cloud platform
 
 
 ## Getting Started
@@ -45,7 +45,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [OpenTable](https://open-table-git-master-ishuoncode.vercel.app) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
