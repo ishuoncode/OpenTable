@@ -1,4 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://github.com/ishuoncode/Voyage/blob/master/public/img/logo-green-round.png" alt="Opentable" width="200"></a>
+  <br>
+  OpenTable
+  <br>
+</h1>
+
+<h4 align="center">An awesome restaurant table booking site built on top of <a href="https://nextjs.org/" target="_blank">NextJS</a>.</h4>
+
+## Deployed Version
+Live demo (Feel free to visit) 👉 : https://voyage-nnyl.onrender.com/
+
+## How To Use
+
+### Book a Table
+* Go to the site
+* Search for restaurant that you want to book
+* You can book Table with or without login
+* Book a Table
+* Give the booker details
+* Finished!
+
+## Build With
+
+* [NextJS](https://nextjs.org/) A React FrameWork
+* [superbase](https://app.supabase.com/) -  Cloud database service
+* [Prisma](https://www.prisma.io/) - (ORM) library
+* [Typescript](https://www.typescriptlang.org/) - A strongly typed programming language
+* [JSON Web Token](https://jwt.io/) - Security token
+* [Webpack](https://webpack.js.org/) - Blazing fast, web application bundler
+* [Postman](https://www.getpostman.com/) - API testing
+* [Render](https://render.com/) - Cloud platform
+
 
 ## Getting Started
 
@@ -18,6 +51,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Known Bugs
+Feel free to email me at ishusingh8127@gmail.com if you run into any issues or have questions, ideas or concerns.
+Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -25,10 +62,5 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
