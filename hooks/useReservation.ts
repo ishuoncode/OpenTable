@@ -56,7 +56,7 @@ export default function useReservation() {
       return response.data;
     } catch (error: any) {
       setLoading(false);
-      setError(error.response.data.errorMessage);
+      setError(error.message)
     }
   };
 

@@ -22,8 +22,9 @@ export default function useAvailabilities(){
             setLoading(false)
             setData(response.data)
         } catch (error: any) {
+            
             setLoading(false)
-            setError(error.response.data.errorMessage)
+            setError(error.message)
         }
 
     }
